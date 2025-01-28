@@ -1,4 +1,4 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi Over There, I'm <a href="#">Ramez Aka Moza </a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hi Over There, I'm <a href="#">Ramez Aka Leo </a>🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://media.discordapp.net/attachments/1014344870917320784/1014765845467119666/77caa32884d735d439ade45ba37feaf2.gif?width=814&height=458" width="450px"><br><br>
@@ -65,13 +65,13 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeadPoolMDE&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="DEADPOOLEVIL's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Ramez's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadPoolMDE&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical">
 </p>
 
 <br>

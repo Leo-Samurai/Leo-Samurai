@@ -65,13 +65,13 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Ramez's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Samurai&show_icons=true&theme=radical" alt="Ramez's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Samurai&layout=compact&theme=radical">
 </p>
 
 <br>
